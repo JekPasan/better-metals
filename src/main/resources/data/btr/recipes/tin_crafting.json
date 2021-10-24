@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#"
+  ],
+  "key": {
+    "#": {
+      "item": "btr:tin_block"
+    }
+  },
+  "result": {
+    "item": "btr:tin",
+    "count": 9
+  },
+  "group": "Better Metals"
+}

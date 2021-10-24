@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "btr:block/tin_ore"
+    }
+  }
+}
