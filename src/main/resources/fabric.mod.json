@@ -4,7 +4,7 @@
   "version": "${version}",
 
   "name": "Better Metals",
-  "description": "Adds tin, bronze and a new smelting system",
+  "description": "Adds tin, bronze and new tools",
   "authors": [
     "CharlieBudgie"
   ],
