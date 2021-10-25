@@ -1,0 +1,8 @@
+{
+  "item.btr.tin": "Tin Ingot",
+  "item.btr.raw_tin": "Raw Tin",
+  "block.btr.tin_block": "Block of Tin",
+  "block.btr.tin_ore": "Tin Ore",
+  "item.btr.bronze": "Bronze Ingot",
+  "itemGroup.btr.general": "Better Metals"
+}
